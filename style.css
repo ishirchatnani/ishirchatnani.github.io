@@ -1,0 +1,21 @@
+body
+{
+  margin: 0;
+  padding: 0;
+
+  background: #fff8f0;
+  color: #000000;
+  font-family: "Avenir Next", "Avenir", sans-serif;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+#landing {
+  margin: 0;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-top: 2rem;
+}
